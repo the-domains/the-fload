@@ -1,7 +1,7 @@
 name: THE FLOAD
 favicon: null
-layout_spectrum: 0.9780577565543354
-typography_spectrum: 0.9827010482549667
+layout_spectrum: 0.81812
+typography_spectrum: 0.41301
 title: THE FLOAD - R/EVOLUTIONIZING HIRING
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.08645064639858902
+    - '#354484'
+    - '#ffffff'
+    - '#9da4c3'
+    - '#d5d8e5'
+    - '#536096'
+  brandStrength: 0.75
   lightness: 0.8111337046138942
   saturation: 0.7424525301903486
   rhythmicContrast: 0.9583512202370912
