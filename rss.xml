@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[THE FLOAD]]></title>
-        <description><![CDATA[THE FLOAD]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[THE FLOAD - R/EVOLUTIONIZING HIRING]]></title>
+        <description><![CDATA[THE FLOAD - R/EVOLUTIONIZING HIRING]]></description>
+        <link>https://thegrid.ai/the-fload/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 19:29:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Jan 2016 21:24:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-fload/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Who is it for]]></title>
+            <description><![CDATA[<article><h1>Who is it for</h1><p>Talent and the will to work with it makes the difference. You want to use your talents and do what you are really best at. You want to create your future and make an impact. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e98561dc909ef1f3037036b31f314ce927d32f2e.png"></article>]]></description>
+            <link>https://thegrid.ai/the-fload/eebc391f-48af-4303-8b4d-500b7374dd66/index.html</link>
+            <guid isPermaLink="false">eebc391f-48af-4303-8b4d-500b7374dd66</guid>
+            <pubDate>Fri, 08 Jan 2016 21:24:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[THE FLOAD - R/EVOLUTIONIZING HIRING]]></title>
-            <description><![CDATA[<article><h1></h1><p>THE FLOAD™ IS THE TALENT BROWSER. THE FLOAD™ EXPLORES AND ORGANIZES THE WORLD’S TALENTS READY TO BE MATCHED WITH THE ADEQUATE TASK.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f8a94609aa2b716694475bac5f93090aefbd87c0.png"></article>]]></description>
-            <link>undefinedthe-fload-revolutionizing-hiring/index.html</link>
+            <description><![CDATA[<article><h1></h1><p>THE FLOAD™ IS THE TALENT BROWSER. THE FLOAD™ EXPLORES AND ORGANIZES THE WORLD’S TALENTS READY TO BE MATCHED WITH THE ADEQUATE TASK.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fb6e2025fd8349ab2f4c70915acaa859704773e7.png"></article>]]></description>
+            <link>https://thegrid.ai/the-fload/the-fload-revolutionizing-hiring/index.html</link>
             <guid isPermaLink="false">0bd8f9ed-e617-4c6f-b056-1803bea278e6</guid>
             <pubDate>Fri, 08 Jan 2016 19:29:00 GMT</pubDate>
         </item>
