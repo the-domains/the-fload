@@ -1,0 +1,28 @@
+name: THE FLOAD
+favicon: null
+layout_spectrum: 0.9780577565543354
+typography_spectrum: 0.9827010482549667
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.08645064639858902
+  lightness: 0.8111337046138942
+  saturation: 0.7424525301903486
+  rhythmicContrast: 0.9583512202370912
+purpose: []
